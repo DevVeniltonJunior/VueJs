@@ -79,167 +79,61 @@
   ],
   "burgers": [
     {
-      "nome": "Matheus Battisti",
-      "carne": "Picanha",
-      "pao": "Italiano Branco",
+      "nome": "João",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
       "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa"
+        "Cheddar",
+        "Cebola roxa",
+        "Tomate"
       ],
-      "status": "Finalizado",
+      "status": "Solicitado",
       "id": 1
     },
     {
-      "nome": "João Coelho",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
+      "nome": "José",
+      "carne": "Picanha",
+      "pao": "Italiano Branco",
       "opcionais": [
         "Salame",
-        "Cebola roxa"
+        "Pepino"
+      ],
+      "status": "Solicitado",
+      "id": 2
+    },
+    {
+      "nome": "Renato",
+      "carne": "Veggie burger",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Cheddar",
+        "Cebola roxa",
+        "Tomate",
+        "Salame",
+        "Pepino"
+      ],
+      "status": "Solicitado",
+      "id": 3
+    },
+    {
+      "nome": "Paulo",
+      "carne": "Maminha",
+      "pao": "Integral",
+      "opcionais": [
+        "Pepino"
       ],
       "status": "Solicitado",
       "id": 4
     },
     {
-      "nome": null,
-      "carne": "Alcatra",
+      "nome": "Jorge",
+      "carne": "Picanha",
       "pao": "Italiano Branco",
-      "opicionais": [
-        "Bacon"
+      "opcionais": [
+        "Salame"
       ],
       "status": "Solicitado",
       "id": 5
-    },
-    {
-      "nome": null,
-      "carne": null,
-      "pao": null,
-      "opicionais": [],
-      "status": "Solicitado",
-      "id": 6
-    },
-    {
-      "nome": null,
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opicionais": [
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 7
-    },
-    {
-      "nome": "Jotge",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opicionais": [
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 8
-    },
-    {
-      "nome": "roger",
-      "carne": "Picanha",
-      "pao": "Italiano Branco",
-      "opicionais": [
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 9
-    },
-    {
-      "nome": "Renato",
-      "carne": "Alcatra",
-      "pao": "Integral",
-      "opicionais": [
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 10
-    },
-    {
-      "nome": "rogerinho",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opicionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 11
-    },
-    {
-      "nome": "regerio",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opicionais": [],
-      "status": "Solicitado",
-      "id": 12
-    },
-    {
-      "nome": "wefsddfs",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opicionais": [],
-      "status": "Solicitado",
-      "id": 13
-    },
-    {
-      "nome": "obs",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opicionais": [],
-      "status": "Solicitado",
-      "id": 14
-    },
-    {
-      "nome": "Renato",
-      "carne": "Picanha",
-      "pao": "",
-      "opicionais": [
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 15
-    },
-    {
-      "nome": "ana",
-      "carne": "Veggie burger",
-      "pao": "Italiano Branco",
-      "opicionais": [
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 16
-    },
-    {
-      "nome": "aoba",
-      "carne": "Alcatra",
-      "pao": "Integral",
-      "opicionais": [
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 17
-    },
-    {
-      "nome": "oba",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opicionais": [],
-      "status": "Solicitado",
-      "id": 18
-    },
-    {
-      "nome": "renato",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opicionais": [
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 19
     }
   ]
 }
