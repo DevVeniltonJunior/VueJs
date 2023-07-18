@@ -116,16 +116,6 @@
       "id": 3
     },
     {
-      "nome": "Jorge",
-      "carne": "Picanha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 5
-    },
-    {
       "nome": "Andreas",
       "carne": "Maminha",
       "pao": "Italiano Branco",
@@ -136,6 +126,16 @@
       ],
       "status": "Solicitado",
       "id": 6
+    },
+    {
+      "nome": "Renato Testes",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 7
     }
   ]
 }
