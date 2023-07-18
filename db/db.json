@@ -116,16 +116,6 @@
       "id": 3
     },
     {
-      "nome": "Paulo",
-      "carne": "Maminha",
-      "pao": "Integral",
-      "opcionais": [
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 4
-    },
-    {
       "nome": "Jorge",
       "carne": "Picanha",
       "pao": "Italiano Branco",
